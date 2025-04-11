@@ -1,0 +1,12 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "firebase-admin": "^13.2.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
